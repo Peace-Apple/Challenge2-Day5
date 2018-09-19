@@ -1,0 +1,13 @@
+[
+  "test_account.py::BankAccountTest::test_can_deposit_money",
+  "test_account.py::BankAccountTest::test_can_deposit_money_sequentially",
+  "test_account.py::BankAccountTest::test_can_withdraw_money",
+  "test_account.py::BankAccountTest::test_can_withdraw_money_sequentially",
+  "test_account.py::BankAccountTest::test_cannot_deposit_negative",
+  "test_account.py::BankAccountTest::test_cannot_withdraw_more_than_deposited",
+  "test_account.py::BankAccountTest::test_cannot_withdraw_negative",
+  "test_account.py::BankAccountTest::test_checking_balance_of_closed_account_throws_error",
+  "test_account.py::BankAccountTest::test_deposit_into_closed_account",
+  "test_account.py::BankAccountTest::test_newly_opened_account_has_zero_balance",
+  "test_account.py::BankAccountTest::test_withdraw_from_closed_account"
+]
